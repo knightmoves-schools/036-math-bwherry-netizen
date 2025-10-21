@@ -1,8 +1,8 @@
-let total = 1 + 4;
-total = total - 2;
-total = total * 5;
-total = total / 2;
-let remainder = total % 2;
+let sum = 1 + 4;
+sum = sum - 2;
+sum = sum * 5;
+sum = sum / 2;
+let remainder = sum % 2;
 
 
 
@@ -12,4 +12,4 @@ let remainder = total % 2;
 
 
 
-document.getElementById("result").innerHTML = total;
+document.getElementById("result").innerHTML = sum;
