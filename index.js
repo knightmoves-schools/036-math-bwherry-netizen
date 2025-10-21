@@ -1,7 +1,7 @@
 let sum = 1 + 4;
-sum = sum - 2;
-sum = sum * 5;
-sum = sum / 2;
+difference = sum - 2;
+product = sum * 5;
+quotient = sum / 2;
 let remainder = sum % 2;
 
 
