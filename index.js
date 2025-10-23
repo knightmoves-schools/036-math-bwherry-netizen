@@ -12,5 +12,5 @@ let remainder = sum % 2;
 
 
 
-//document.getElementById("result").innerHTML = quotient;
-document.getElementById("result").innerHTML = sum % 2;
+document.getElementById("result").innerHTML = quotient;
+
