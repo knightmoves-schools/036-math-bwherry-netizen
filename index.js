@@ -12,4 +12,4 @@ let remainder = sum % 2;
 
 
 
-document.getElementById("result").innerHTML = sum;
+document.getElementById("result").innerHTML = quotient;
