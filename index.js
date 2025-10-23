@@ -1,8 +1,8 @@
 let sum = 1 + 4;
 let difference = sum - 2;
-let product = sum * 5;
+let product = difference * 5;
 let quotient = sum / 2;
-let remainder = sum % 2;
+let remainder = product % 2;
 
 
 
